@@ -1,6 +1,6 @@
 # Live Edges
 
-This project takes a live recording using your webcam/feed a video as an input, and then makes a mask to differentiate, the regions having white colors, and then detects edges of the white colored object. 
+This project takes a live recording using your webcam/feed a video as an input, and then makes a mask to differentiate, the regions having white colors, and then detects edges of the **white colored object. **
 
 <a href="https://en.wikipedia.org/wiki/Canny_edge_detector">Canny Edge Detection</a> Algorithm is used to detect live edges. 
 
