@@ -15,7 +15,7 @@ It's better to install the above dependencies in Virtual Environment `virtualenv
 
 1. `tracklivewhite.py` - Records a live video, using the webcam, and then the script tracks the white object with it's edges.`
 
-2. `tracklivewhite.py` - User needs to feed a video as an input, and then the script tracks the white object with it's edges.
+2. `trackwhite.py` - User needs to feed a video as an input, and then the script tracks the white object with it's edges.
 
 ## Credits-:
 
