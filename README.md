@@ -21,3 +21,7 @@ It's better to install the above dependencies in Virtual Environment `virtualenv
 
 Ashutosh Saboo - https://github.com/ashutoshsaboo - https://github.com/ashutoshsaboo/liveedges
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ashutoshsaboo/liveedges/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
